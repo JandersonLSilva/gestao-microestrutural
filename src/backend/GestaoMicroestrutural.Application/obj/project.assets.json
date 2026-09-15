@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GestaoMicroestrutural.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GestaoMicroestrutural.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoMicroestrutural.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestaoMicroestrutural.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GestaoMicroestrutural.Domain/GestaoMicroestrutural.Domain.csproj",
+      "msbuildProject": "../GestaoMicroestrutural.Domain/GestaoMicroestrutural.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GestaoMicroestrutural.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Janderson\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Janderson\\Desktop\\Files\\TCC2\\System\\gestao-microestrutural\\src\\backend\\GestaoMicroestrutural.Application\\GestaoMicroestrutural.Application.csproj",
+      "projectName": "GestaoMicroestrutural.Application",
+      "projectPath": "C:\\Users\\Janderson\\Desktop\\Files\\TCC2\\System\\gestao-microestrutural\\src\\backend\\GestaoMicroestrutural.Application\\GestaoMicroestrutural.Application.csproj",
+      "packagesPath": "C:\\Users\\Janderson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Janderson\\Desktop\\Files\\TCC2\\System\\gestao-microestrutural\\src\\backend\\GestaoMicroestrutural.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Janderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Janderson\\Desktop\\Files\\TCC2\\System\\gestao-microestrutural\\src\\backend\\GestaoMicroestrutural.Domain\\GestaoMicroestrutural.Domain.csproj": {
+              "projectPath": "C:\\Users\\Janderson\\Desktop\\Files\\TCC2\\System\\gestao-microestrutural\\src\\backend\\GestaoMicroestrutural.Domain\\GestaoMicroestrutural.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "framework": "net8.0",
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
