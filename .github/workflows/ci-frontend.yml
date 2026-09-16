@@ -1,0 +1,37 @@
+﻿name: CI Frontend - Angular
+
+on:
+  push:
+    branches: [ "develop", "main" ]
+    paths:
+      - 'src/frontend/**'
+  pull_request:
+    branches: [ "develop", "main" ]
+    paths:
+      - 'src/frontend/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ./src/frontend/gestao-web
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Instalar dependências e Compilar
+        run: |
+          if [ -f "package.json" ]; then
+            npm ci
+            npm run build
+          else
+            echo "Projeto Angular ainda não inicializado. Ignorando build."
+          fi
