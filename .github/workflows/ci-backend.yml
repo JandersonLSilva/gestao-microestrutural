@@ -1,0 +1,35 @@
+name: CI Backend - .NET 8
+
+on: 
+  push:
+    branches: [ "main", "develop" ]
+    paths:
+      - 'src/backend/**'
+      - 'tests/**'
+  pull_request:
+    branches: [ "main", "develop" ]
+    paths:
+      - 'src/backend/**'
+      - 'tests/**'
+
+jobs: 
+  build-and-tast:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar o .NET 8 SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restaurar dependências
+        run: dotnet restore src/backend/GestaoMicroestrutural.sln
+
+      - name: Compilar Solução (Build)
+        run: dotnet build src/backend/GestaoMicroestrutural.sln --no-restore --configuration Release
+      
+      - name: Executar Suíte de Testes
+        run: dotnet test src/backend/GestaoMicroestrutural.sln --no-build --verbosity normal
