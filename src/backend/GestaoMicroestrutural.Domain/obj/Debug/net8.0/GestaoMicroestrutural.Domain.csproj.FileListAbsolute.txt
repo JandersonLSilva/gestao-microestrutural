@@ -1,0 +1,12 @@
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\bin\Debug\net8.0\GestaoMicroestrutural.Domain.deps.json
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\bin\Debug\net8.0\GestaoMicroestrutural.Domain.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\bin\Debug\net8.0\GestaoMicroestrutural.Domain.pdb
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\GestaoMicroestrutural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\GestaoMicroestrutural.Domain.AssemblyInfoInputs.cache
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\GestaoMicroestrutural.Domain.AssemblyInfo.cs
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\GestaoMicroestrutural.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\GestaoMicroestrutural.Domain.sourcelink.json
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\GestaoMicroestrutural.Domain.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\refint\GestaoMicroestrutural.Domain.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\GestaoMicroestrutural.Domain.pdb
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Domain\obj\Debug\net8.0\ref\GestaoMicroestrutural.Domain.dll

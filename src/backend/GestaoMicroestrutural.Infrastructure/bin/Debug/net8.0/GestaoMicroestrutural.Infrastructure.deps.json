@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GestaoMicroestrutural.Infrastructure/1.0.0": {
+        "dependencies": {
+          "GestaoMicroestrutural.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GestaoMicroestrutural.Infrastructure.dll": {}
+        }
+      },
+      "GestaoMicroestrutural.Domain/1.0.0": {
+        "runtime": {
+          "GestaoMicroestrutural.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestaoMicroestrutural.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestaoMicroestrutural.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

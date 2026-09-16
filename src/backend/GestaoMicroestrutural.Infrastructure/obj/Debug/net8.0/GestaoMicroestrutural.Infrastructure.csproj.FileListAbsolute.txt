@@ -1,0 +1,16 @@
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\bin\Debug\net8.0\GestaoMicroestrutural.Infrastructure.deps.json
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\bin\Debug\net8.0\GestaoMicroestrutural.Infrastructure.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\bin\Debug\net8.0\GestaoMicroestrutural.Infrastructure.pdb
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\bin\Debug\net8.0\GestaoMicroestrutural.Domain.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\bin\Debug\net8.0\GestaoMicroestrutural.Domain.pdb
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMicroestrutural.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMicroestrutural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMicroestrutural.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMicroestrutural.Infrastructure.AssemblyInfo.cs
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMicroestrutural.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMicroestrutural.Infrastructure.sourcelink.json
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMi.1A41067C.Up2Date
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMicroestrutural.Infrastructure.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\refint\GestaoMicroestrutural.Infrastructure.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\GestaoMicroestrutural.Infrastructure.pdb
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Infrastructure\obj\Debug\net8.0\ref\GestaoMicroestrutural.Infrastructure.dll

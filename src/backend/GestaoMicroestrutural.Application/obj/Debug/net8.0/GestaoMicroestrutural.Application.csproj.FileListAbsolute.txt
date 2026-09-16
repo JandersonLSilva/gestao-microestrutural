@@ -1,0 +1,16 @@
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\bin\Debug\net8.0\GestaoMicroestrutural.Application.deps.json
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\bin\Debug\net8.0\GestaoMicroestrutural.Application.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\bin\Debug\net8.0\GestaoMicroestrutural.Application.pdb
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\bin\Debug\net8.0\GestaoMicroestrutural.Domain.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\bin\Debug\net8.0\GestaoMicroestrutural.Domain.pdb
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMicroestrutural.Application.csproj.AssemblyReference.cache
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMicroestrutural.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMicroestrutural.Application.AssemblyInfoInputs.cache
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMicroestrutural.Application.AssemblyInfo.cs
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMicroestrutural.Application.csproj.CoreCompileInputs.cache
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMicroestrutural.Application.sourcelink.json
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMi.EDE22923.Up2Date
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMicroestrutural.Application.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\refint\GestaoMicroestrutural.Application.dll
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\GestaoMicroestrutural.Application.pdb
+C:\Users\Janderson\Desktop\Files\TCC2\System\gestao-microestrutural\src\backend\GestaoMicroestrutural.Application\obj\Debug\net8.0\ref\GestaoMicroestrutural.Application.dll

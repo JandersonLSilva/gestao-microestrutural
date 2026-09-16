@@ -1,0 +1,6 @@
+@GestaoMicroestrutural.Api_HostAddress = http://localhost:5079
+
+GET {{GestaoMicroestrutural.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
