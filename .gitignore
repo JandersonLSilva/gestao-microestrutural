@@ -1,3 +1,4 @@
 # Configurações locais de IDEs
 .idea/
 .vscode/
+.env
